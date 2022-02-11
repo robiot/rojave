@@ -1,6 +1,8 @@
 # rojave
 A Macos inspired openbox theme
 
+![image](https://user-images.githubusercontent.com/68228472/153613348-773d9270-086e-448e-b78a-3f00e189062a.png)
+
 ## How to install?
 ```bash
 cd ~/.themes
